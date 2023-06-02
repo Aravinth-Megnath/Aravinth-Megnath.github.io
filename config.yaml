@@ -2,17 +2,17 @@ baseURL: "https://aravinth.github.io"
 languageCode: en-us
 title: Aravinth
 paginate: 5
-theme: PaperMod
+theme: hugo-PaperMod
 
 menu:
   main:
     - identifier: home
       name: Home
-      url: /
+      url: /home/
       weight: 5
     - identifier: about
       name: About
-      url: /about
+      url: /about/
       weight: 10
     - identifier: blog
       name: Blog

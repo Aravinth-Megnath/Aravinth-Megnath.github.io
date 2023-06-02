@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aravinth</title>
     <link>https://aravinth.github.io/</link>
     <description>Recent content on Aravinth</description>
-    <image>
-      <title>Aravinth</title>
-      <url>https://aravinth.github.io/img/Profile.jpg</url>
-      <link>https://aravinth.github.io/img/Profile.jpg</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 01 Jun 2023 18:50:10 +0530</lastBuildDate><atom:link href="https://aravinth.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -70,6 +65,14 @@ Email: aravinthmegnath@gmail.com LinkedIn: Aravinth Meganathan GitHub: Aravinth-
 My technical skills include Python, SQL, statistical analysis, machine learning, NLP, and data visualization. I have gained hands-on experience in various projects, some of which are highlighted below:</description>
     </item>
     
+    <item>
+      <title>Search</title>
+      <link>https://aravinth.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aravinth.github.io/search/</guid>
+      <description>search</description>
+    </item>
     
   </channel>
 </rss>
