@@ -1,3 +1,7 @@
 [submodule "themes/PaperMod"]
     path = themes/PaperMod
+<<<<<<< HEAD
     url = https://github.com/Aravinth-Megnath/PaperMod.git
+=======
+    url = "https://github.com/Aravinth-Megnath/aravinth.github.io"
+>>>>>>> origin/main

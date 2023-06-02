@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 User-agent: *
+=======
+User-agent: *
+Disallow:
+Sitemap: https://aravinth.github.io/sitemap.xml
+>>>>>>> origin/main
