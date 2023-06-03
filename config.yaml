@@ -8,7 +8,7 @@ menu:
   main:
     - identifier: home
       name: Home
-      url: /home/
+      url: /
       weight: 5
     - identifier: about
       name: About
