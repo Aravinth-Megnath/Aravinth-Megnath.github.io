@@ -43,7 +43,7 @@ buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-googleAnalytics: G-ZE0Y3K4S3E
+
 
 minify:
   disableXML: true
