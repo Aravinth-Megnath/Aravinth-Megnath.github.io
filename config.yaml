@@ -78,7 +78,8 @@ params:
   description: "Data Scientist, NLP, Open-Source"
   keywords: [Aravinth Meganathan, Aravinth Meganathan blog, Aravinth Portfolio,Aravinth Meganathan Data Science, Aravinth Meganathan website Aravinth Meganathan , Data Science Portfolio, aravinth, data science, nlp, ml, natural language processing]
   author: Aravinth Meganathan
-  images:  ["{{ .Site.BaseURL }}/img/Profile.jpg"]
+  #images:  ["{{ .Site.BaseURL }}/img/Profile.jpg"]
+  images: ["https://i.imgur.com/7uUieea.jpg"]
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: True
