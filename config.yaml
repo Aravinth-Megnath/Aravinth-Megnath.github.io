@@ -110,7 +110,8 @@ params:
       Data Scientist with a keen interest in NLP | Skilled in Python, Data Analysis, Data visualization | Experienced Business Owner
 
     #imageUrl: "{{ .Site.BaseURL }}/img/Profile.jpg"
-    imageUrl: '<a href="https://imgur.com/7uUieea"><img src="https://i.imgur.com/7uUieea.jpg" title="source: imgur.com" /></a>'  # Add your image HTML here
+    #imageUrl: '<a href="https://imgur.com/7uUieea"><img src="https://i.imgur.com/7uUieea.jpg" title="source: imgur.com" /></a>'  # Add your image HTML here
+    imageUrl: "https://i.imgur.com/7uUieea.jpg"
     imageWidth: 180
     imageHeight: 180
     imageTitle: Profile Picture
