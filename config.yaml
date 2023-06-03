@@ -127,7 +127,7 @@ params:
         ### **Data Scientist | NLP | Machine Learning**
         
         
-        <div align='center'><img src="{{ .Site.BaseURL }}/img/Profile.jpg" alt="" width="180" height="180" hspace="0" vspace="20"> </div>
+        <div align='center'><img src="https://aravinth-megnath.github.io/img/Profile.jpg" alt="Profile Picture" width="180" height="180" hspace="0" vspace="20"> </div>
         Hello, and welcome to my portfolio! I am Aravinth Meganathan, a passionate and motivated individual who is eager to make a mark in the field of Data Science. With a strong educational background and hands-on project experience, I am excited to share my journey and showcase my skills and accomplishments.
 
 
